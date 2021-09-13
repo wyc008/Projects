@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="test1">WebView测试</string>
+    <string name="test2">控件测试</string>
+    <string name="test3">自定义View</string>
+    <string name="test4">HTTP调用</string>
+    <string name="recyclerview">RecyclerView</string>
+    <string name="custom_view">自定义View</string>
+    <string name="item">Item</string>
+</resources>
